@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="526e98b1-1bcb-4371-9773-81b0c19562ef" name="Changes" comment="New Commit" />
+    <list default="true" id="526e98b1-1bcb-4371-9773-81b0c19562ef" name="Changes" comment="New Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/app/wow/wow.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/app/wow/wow.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/app/wow/wow.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/src/app/wow/wow.component.ts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +100,8 @@
       <workItem from="1717069620916" duration="4406000" />
       <workItem from="1717304550029" duration="12820000" />
       <workItem from="1717353425112" duration="716000" />
+      <workItem from="1717407627805" duration="1650000" />
+      <workItem from="1717417406744" duration="7729000" />
     </task>
     <task id="LOCAL-00001" summary="create rep">
       <option name="closed" value="true" />
@@ -165,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717353535767</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1717407641657</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717407641657</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
